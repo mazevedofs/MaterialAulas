@@ -1,0 +1,6 @@
+package br.senai.sp.informatica.cadastro.model.validacao;
+
+
+public @interface Logradouro {
+
+}

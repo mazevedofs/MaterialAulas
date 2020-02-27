@@ -1,0 +1,25 @@
+Info 0    [22:27:38.392] Format host information updated
+Info 1    [22:27:38.393] reload projects.
+Info 2    [22:27:38.393] Structure before ensureProjectForOpenFiles:
+Info 3    [22:27:38.422] Structure after ensureProjectForOpenFiles:
+Info 4    [22:27:38.422] Host file extension mappings updated
+Info 5    [22:27:38.458] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quizProf/src/main/webapp
+Info 6    [22:27:38.460] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quizProf/src/main/webapp/index.html :: No config files found.
+Info 7    [22:27:38.462] Loading global plugin @angular/language-service
+Info 8    [22:27:38.462] Enabling plugin @angular/language-service from candidate paths: /Applications/Eclipse-4.13.app/Contents/Eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/typescript/lib/tsserverlibrary.js/../../..,/Applications/Eclipse-4.13.app/Contents/Eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/@angular/language-service
+Info 9    [22:27:38.462] Loading @angular/language-service from /Applications/Eclipse-4.13.app/Contents/Eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/typescript/lib/tsserverlibrary.js/../../.. (resolved to /Applications/Eclipse-4.13.app/Contents/Eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/node_modules)
+Info 10   [22:27:38.678] Plugin validation succeded
+Info 11   [22:27:38.684] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 12   [22:27:39.673] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 989ms
+Info 13   [22:27:39.673] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 14   [22:27:39.673] 	Files (6)
+
+Info 15   [22:27:39.674] -----------------------------------------------
+Info 16   [22:27:53.384] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quizProf/src/main/webapp
+Info 17   [22:27:53.385] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quizProf/src/main/webapp/paginaDeSucesso.html :: No config files found.
+Info 18   [22:27:53.386] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 19   [22:27:53.399] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: true Elapsed: 13ms
+Info 20   [22:27:53.400] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 21   [22:27:53.400] 	Files (7)
+
+Info 22   [22:27:53.400] -----------------------------------------------

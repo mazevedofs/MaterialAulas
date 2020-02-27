@@ -1,0 +1,5 @@
+package br.senai.sp.informatica.cadastro.model.valueObject;
+
+public class LoginRequest {
+
+}

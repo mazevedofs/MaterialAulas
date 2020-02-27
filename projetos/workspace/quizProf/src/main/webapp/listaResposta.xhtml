@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html
+ 	xmlns:th="http://www.thymeleaf.org"
+	lang="pt-br">
+<head>
+	<!-- base href="/ServletProjeto/" -->
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<title>Quiz</title>
+	<link rel="stylesheet" type="text/css" href="style/style.css">
+</head>
+<body>
+	<div id="wrapper">
+		<header role="banner" class="group">
+			<div id="logo">Quiz</div>
+		</header>
+		
+		<div id="content" role="main">
+		  	<fieldset>
+				<form action="index.html" id="form1">
+
+					<div data-pos="left">
+						<b>Qtd.</b>
+						<em th:text="${ate18}"></em>
+						<em th:text="${ate26}"></em>
+						<em th:text="${ate35}"></em>
+						<em th:text="${ate99}"></em>
+					</div>
+					
+					<div data-pos="right">
+						<b>Resposta</b>
+						<span>até 18</span>
+						<span>de 19 até 26</span>
+						<span>de 27 até 35</span>
+						<span>acima de 35</span>
+					</div>
+					
+					<div >
+						<input type="submit" id=submit value="Voltar">
+					</div>
+
+				</form>
+			</fieldset>
+		</div>
+	</div>
+</body>
+</html>

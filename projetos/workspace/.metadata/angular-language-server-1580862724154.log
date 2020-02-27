@@ -1,0 +1,853 @@
+Info 0    [22:32:4.493] Format host information updated
+Info 1    [22:32:4.495] reload projects.
+Info 2    [22:32:4.495] Structure before ensureProjectForOpenFiles:
+Info 3    [22:32:4.495] Structure after ensureProjectForOpenFiles:
+Info 4    [22:32:4.495] Host file extension mappings updated
+Info 5    [22:32:4.507] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 6    [22:32:4.512] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 7    [22:32:4.515] Loading global plugin @angular/language-service
+Info 8    [22:32:4.515] Enabling plugin @angular/language-service from candidate paths: /Applications/Eclipse-4.13.app/Contents/Eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/typescript/lib/tsserverlibrary.js/../../..,/Applications/Eclipse-4.13.app/Contents/Eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/@angular/language-service
+Info 9    [22:32:4.515] Loading @angular/language-service from /Applications/Eclipse-4.13.app/Contents/Eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/typescript/lib/tsserverlibrary.js/../../.. (resolved to /Applications/Eclipse-4.13.app/Contents/Eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/node_modules)
+Info 10   [22:32:4.704] Plugin validation succeded
+Info 11   [22:32:4.710] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 12   [22:32:5.853] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 1143ms
+Info 13   [22:32:5.853] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 14   [22:32:5.853] 	Files (6)
+
+Info 15   [22:32:5.853] -----------------------------------------------
+Info 16   [22:44:27.706] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 17   [22:44:27.706] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 18   [22:44:27.706] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 19   [22:44:27.725] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: false Elapsed: 19ms
+Info 20   [22:44:27.725] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 21   [22:44:27.725] 	Files (6)
+
+Info 22   [22:44:27.725] -----------------------------------------------
+Info 23   [22:45:32.570] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 24   [22:45:32.570] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 25   [22:45:32.570] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 26   [22:45:32.583] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 3 structureChanged: false Elapsed: 13ms
+Info 27   [22:45:32.583] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 28   [22:45:32.583] 	Files (6)
+
+Info 29   [22:45:32.583] -----------------------------------------------
+Info 30   [22:45:34.151] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 31   [22:45:34.152] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 32   [22:45:34.173] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 33   [22:45:34.173] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 34   [22:45:44.822] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 35   [22:45:44.823] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 36   [22:45:44.823] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 37   [22:45:44.836] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 4 structureChanged: false Elapsed: 13ms
+Info 38   [22:45:44.836] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 39   [22:45:44.836] 	Files (6)
+
+Info 40   [22:45:44.836] -----------------------------------------------
+Info 41   [22:45:45.122] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 42   [22:45:45.122] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 43   [22:45:45.122] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 44   [22:45:45.133] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 5 structureChanged: false Elapsed: 11ms
+Info 45   [22:45:45.133] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 46   [22:45:45.133] 	Files (6)
+
+Info 47   [22:45:45.133] -----------------------------------------------
+Info 48   [22:45:45.392] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 49   [22:45:45.392] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 50   [22:45:45.392] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 51   [22:45:45.406] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 6 structureChanged: false Elapsed: 14ms
+Info 52   [22:45:45.406] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 53   [22:45:45.406] 	Files (6)
+
+Info 54   [22:45:45.406] -----------------------------------------------
+Info 55   [22:45:45.818] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 56   [22:45:45.818] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 57   [22:45:45.818] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 58   [22:45:45.831] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 7 structureChanged: false Elapsed: 13ms
+Info 59   [22:45:45.831] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 60   [22:45:45.831] 	Files (6)
+
+Info 61   [22:45:45.831] -----------------------------------------------
+Info 62   [22:46:9.281] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 63   [22:46:9.282] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 64   [22:46:9.282] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 65   [22:46:9.292] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 8 structureChanged: false Elapsed: 10ms
+Info 66   [22:46:9.292] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 67   [22:46:9.292] 	Files (6)
+
+Info 68   [22:46:9.292] -----------------------------------------------
+Info 69   [22:46:10.304] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 70   [22:46:10.304] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 71   [22:46:10.304] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 72   [22:46:10.314] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 9 structureChanged: false Elapsed: 10ms
+Info 73   [22:46:10.314] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 74   [22:46:10.314] 	Files (6)
+
+Info 75   [22:46:10.314] -----------------------------------------------
+Info 76   [22:46:15.928] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 77   [22:46:15.928] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 78   [22:46:15.928] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 79   [22:46:15.943] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 10 structureChanged: false Elapsed: 15ms
+Info 80   [22:46:15.943] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 81   [22:46:15.943] 	Files (6)
+
+Info 82   [22:46:15.943] -----------------------------------------------
+Info 83   [22:46:16.211] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 84   [22:46:16.211] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 85   [22:46:16.211] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 86   [22:46:16.225] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 11 structureChanged: false Elapsed: 14ms
+Info 87   [22:46:16.225] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 88   [22:46:16.225] 	Files (6)
+
+Info 89   [22:46:16.225] -----------------------------------------------
+Info 90   [22:46:16.488] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 91   [22:46:16.489] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 92   [22:46:16.489] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 93   [22:46:16.496] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 12 structureChanged: false Elapsed: 7ms
+Info 94   [22:46:16.496] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 95   [22:46:16.496] 	Files (6)
+
+Info 96   [22:46:16.496] -----------------------------------------------
+Info 97   [22:48:27.842] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 98   [22:48:27.842] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 99   [22:48:27.842] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 100  [22:48:27.855] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 13 structureChanged: false Elapsed: 13ms
+Info 101  [22:48:27.855] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 102  [22:48:27.855] 	Files (6)
+
+Info 103  [22:48:27.855] -----------------------------------------------
+Info 104  [22:48:28.232] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 105  [22:48:28.232] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 106  [22:48:28.232] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 107  [22:48:28.242] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 14 structureChanged: false Elapsed: 10ms
+Info 108  [22:48:28.242] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 109  [22:48:28.242] 	Files (6)
+
+Info 110  [22:48:28.242] -----------------------------------------------
+Info 111  [22:48:28.305] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 112  [22:48:28.305] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 113  [22:48:28.305] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 114  [22:48:28.315] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 15 structureChanged: false Elapsed: 10ms
+Info 115  [22:48:28.315] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 116  [22:48:28.315] 	Files (6)
+
+Info 117  [22:48:28.315] -----------------------------------------------
+Info 118  [22:48:28.484] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 119  [22:48:28.484] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 120  [22:48:28.484] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 121  [22:48:28.496] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 16 structureChanged: false Elapsed: 12ms
+Info 122  [22:48:28.496] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 123  [22:48:28.496] 	Files (6)
+
+Info 124  [22:48:28.496] -----------------------------------------------
+Info 125  [22:51:53.398] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 126  [22:51:53.399] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 127  [22:51:53.399] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 128  [22:51:53.409] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 17 structureChanged: false Elapsed: 10ms
+Info 129  [22:51:53.410] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 130  [22:51:53.410] 	Files (6)
+
+Info 131  [22:51:53.410] -----------------------------------------------
+Info 132  [22:51:53.949] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 133  [22:51:53.949] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 134  [22:51:53.949] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 135  [22:51:53.957] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 18 structureChanged: false Elapsed: 8ms
+Info 136  [22:51:53.957] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 137  [22:51:53.957] 	Files (6)
+
+Info 138  [22:51:53.957] -----------------------------------------------
+Info 139  [22:51:53.967] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 140  [22:51:53.967] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 141  [22:51:53.967] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 142  [22:51:53.994] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 19 structureChanged: false Elapsed: 27ms
+Info 143  [22:51:53.994] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 144  [22:51:53.994] 	Files (6)
+
+Info 145  [22:51:53.994] -----------------------------------------------
+Info 146  [22:51:54.6] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 147  [22:51:54.6] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 148  [22:51:54.6] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 149  [22:51:54.24] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 20 structureChanged: false Elapsed: 18ms
+Info 150  [22:51:54.24] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 151  [22:51:54.24] 	Files (6)
+
+Info 152  [22:51:54.24] -----------------------------------------------
+Info 153  [22:51:54.81] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 154  [22:51:54.81] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 155  [22:51:54.81] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 156  [22:51:54.90] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 21 structureChanged: false Elapsed: 9ms
+Info 157  [22:51:54.90] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 158  [22:51:54.90] 	Files (6)
+
+Info 159  [22:51:54.90] -----------------------------------------------
+Info 160  [22:51:55.455] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 161  [22:51:55.456] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 162  [22:51:55.456] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 163  [22:51:55.464] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 22 structureChanged: false Elapsed: 8ms
+Info 164  [22:51:55.464] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 165  [22:51:55.464] 	Files (6)
+
+Info 166  [22:51:55.464] -----------------------------------------------
+Info 167  [22:51:56.467] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 168  [22:51:56.467] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 169  [22:51:56.467] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 170  [22:51:56.474] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 23 structureChanged: false Elapsed: 7ms
+Info 171  [22:51:56.474] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 172  [22:51:56.474] 	Files (6)
+
+Info 173  [22:51:56.474] -----------------------------------------------
+Info 174  [22:51:57.442] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 175  [22:51:57.442] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 176  [22:51:57.442] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 177  [22:51:57.449] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 24 structureChanged: false Elapsed: 7ms
+Info 178  [22:51:57.449] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 179  [22:51:57.449] 	Files (6)
+
+Info 180  [22:51:57.449] -----------------------------------------------
+Info 181  [22:51:59.71] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 182  [22:51:59.72] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 183  [22:51:59.72] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 184  [22:51:59.79] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 25 structureChanged: false Elapsed: 7ms
+Info 185  [22:51:59.79] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 186  [22:51:59.79] 	Files (6)
+
+Info 187  [22:51:59.79] -----------------------------------------------
+Info 188  [22:51:59.428] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 189  [22:51:59.428] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 190  [22:51:59.428] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 191  [22:51:59.434] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 26 structureChanged: false Elapsed: 6ms
+Info 192  [22:51:59.434] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 193  [22:51:59.434] 	Files (6)
+
+Info 194  [22:51:59.434] -----------------------------------------------
+Info 195  [22:51:59.776] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 196  [22:51:59.776] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 197  [22:51:59.776] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 198  [22:51:59.780] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 27 structureChanged: false Elapsed: 4ms
+Info 199  [22:51:59.780] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 200  [22:51:59.781] 	Files (6)
+
+Info 201  [22:51:59.781] -----------------------------------------------
+Info 202  [22:52:0.90] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 203  [22:52:0.90] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 204  [22:52:0.90] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 205  [22:52:0.96] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 28 structureChanged: false Elapsed: 6ms
+Info 206  [22:52:0.96] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 207  [22:52:0.96] 	Files (6)
+
+Info 208  [22:52:0.96] -----------------------------------------------
+Info 209  [22:52:9.473] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 210  [22:52:9.473] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 211  [22:52:9.473] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 212  [22:52:9.479] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 29 structureChanged: false Elapsed: 5ms
+Info 213  [22:52:9.479] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 214  [22:52:9.479] 	Files (6)
+
+Info 215  [22:52:9.479] -----------------------------------------------
+Info 216  [22:52:9.672] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 217  [22:52:9.673] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 218  [22:52:9.673] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 219  [22:52:9.679] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 30 structureChanged: false Elapsed: 6ms
+Info 220  [22:52:9.679] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 221  [22:52:9.679] 	Files (6)
+
+Info 222  [22:52:9.679] -----------------------------------------------
+Info 223  [22:52:15.864] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 224  [22:52:15.864] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 225  [22:52:15.864] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 226  [22:52:15.872] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 31 structureChanged: false Elapsed: 8ms
+Info 227  [22:52:15.872] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 228  [22:52:15.872] 	Files (6)
+
+Info 229  [22:52:15.872] -----------------------------------------------
+Info 230  [22:52:15.872] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 231  [22:52:15.872] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 232  [22:52:15.872] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 233  [22:52:15.880] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 32 structureChanged: false Elapsed: 8ms
+Info 234  [22:52:15.880] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 235  [22:52:15.880] 	Files (6)
+
+Info 236  [22:52:15.880] -----------------------------------------------
+Info 237  [22:52:19.995] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 238  [22:52:19.996] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 239  [22:52:19.996] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 240  [22:52:20.5] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 33 structureChanged: false Elapsed: 9ms
+Info 241  [22:52:20.5] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 242  [22:52:20.5] 	Files (6)
+
+Info 243  [22:52:20.5] -----------------------------------------------
+Info 244  [22:52:20.20] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 245  [22:52:20.20] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 246  [22:52:20.20] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 247  [22:52:20.28] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 34 structureChanged: false Elapsed: 8ms
+Info 248  [22:52:20.28] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 249  [22:52:20.28] 	Files (6)
+
+Info 250  [22:52:20.28] -----------------------------------------------
+Info 251  [22:52:20.123] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 252  [22:52:20.123] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 253  [22:52:20.123] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 254  [22:52:20.130] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 35 structureChanged: false Elapsed: 7ms
+Info 255  [22:52:20.130] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 256  [22:52:20.130] 	Files (6)
+
+Info 257  [22:52:20.131] -----------------------------------------------
+Info 258  [22:52:20.404] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 259  [22:52:20.404] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 260  [22:52:20.404] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 261  [22:52:20.414] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 36 structureChanged: false Elapsed: 10ms
+Info 262  [22:52:20.414] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 263  [22:52:20.414] 	Files (6)
+
+Info 264  [22:52:20.414] -----------------------------------------------
+Info 265  [22:52:20.611] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 266  [22:52:20.611] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 267  [22:52:20.611] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 268  [22:52:20.618] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 37 structureChanged: false Elapsed: 7ms
+Info 269  [22:52:20.618] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 270  [22:52:20.618] 	Files (6)
+
+Info 271  [22:52:20.618] -----------------------------------------------
+Info 272  [22:52:20.907] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 273  [22:52:20.907] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 274  [22:52:20.907] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 275  [22:52:20.914] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 38 structureChanged: false Elapsed: 7ms
+Info 276  [22:52:20.914] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 277  [22:52:20.914] 	Files (6)
+
+Info 278  [22:52:20.914] -----------------------------------------------
+Info 279  [22:52:21.43] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 280  [22:52:21.43] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 281  [22:52:21.43] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 282  [22:52:21.49] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 39 structureChanged: false Elapsed: 6ms
+Info 283  [22:52:21.49] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 284  [22:52:21.49] 	Files (6)
+
+Info 285  [22:52:21.49] -----------------------------------------------
+Info 286  [22:52:21.163] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 287  [22:52:21.163] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 288  [22:52:21.163] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 289  [22:52:21.173] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 40 structureChanged: false Elapsed: 10ms
+Info 290  [22:52:21.173] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 291  [22:52:21.173] 	Files (6)
+
+Info 292  [22:52:21.173] -----------------------------------------------
+Info 293  [22:52:31.592] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 294  [22:52:31.592] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 295  [22:52:31.592] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 296  [22:52:31.598] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 41 structureChanged: false Elapsed: 5ms
+Info 297  [22:52:31.598] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 298  [22:52:31.598] 	Files (6)
+
+Info 299  [22:52:31.598] -----------------------------------------------
+Info 300  [22:52:36.739] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 301  [22:52:36.739] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 302  [22:52:36.739] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 303  [22:52:36.747] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 42 structureChanged: false Elapsed: 8ms
+Info 304  [22:52:36.747] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 305  [22:52:36.747] 	Files (6)
+
+Info 306  [22:52:36.747] -----------------------------------------------
+Info 307  [22:52:36.963] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 308  [22:52:36.963] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 309  [22:52:36.963] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 310  [22:52:36.972] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 43 structureChanged: false Elapsed: 9ms
+Info 311  [22:52:36.972] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 312  [22:52:36.972] 	Files (6)
+
+Info 313  [22:52:36.972] -----------------------------------------------
+Info 314  [22:52:37.506] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 315  [22:52:37.507] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 316  [22:52:37.507] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 317  [22:52:37.515] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 44 structureChanged: false Elapsed: 8ms
+Info 318  [22:52:37.515] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 319  [22:52:37.516] 	Files (6)
+
+Info 320  [22:52:37.516] -----------------------------------------------
+Info 321  [22:52:37.706] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 322  [22:52:37.706] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 323  [22:52:37.707] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 324  [22:52:37.715] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 45 structureChanged: false Elapsed: 8ms
+Info 325  [22:52:37.715] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 326  [22:52:37.715] 	Files (6)
+
+Info 327  [22:52:37.715] -----------------------------------------------
+Info 328  [22:52:38.43] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 329  [22:52:38.43] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 330  [22:52:38.43] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 331  [22:52:38.57] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 46 structureChanged: false Elapsed: 14ms
+Info 332  [22:52:38.57] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 333  [22:52:38.57] 	Files (6)
+
+Info 334  [22:52:38.57] -----------------------------------------------
+Info 335  [22:52:38.602] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 336  [22:52:38.602] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 337  [22:52:38.602] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 338  [22:52:38.618] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 47 structureChanged: false Elapsed: 16ms
+Info 339  [22:52:38.618] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 340  [22:52:38.618] 	Files (6)
+
+Info 341  [22:52:38.618] -----------------------------------------------
+Info 342  [22:52:39.26] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 343  [22:52:39.26] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 344  [22:52:39.26] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 345  [22:52:39.33] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 48 structureChanged: false Elapsed: 6ms
+Info 346  [22:52:39.33] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 347  [22:52:39.33] 	Files (6)
+
+Info 348  [22:52:39.33] -----------------------------------------------
+Info 349  [22:52:39.77] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 350  [22:52:39.78] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 351  [22:52:39.78] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 352  [22:52:39.89] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 49 structureChanged: false Elapsed: 11ms
+Info 353  [22:52:39.89] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 354  [22:52:39.89] 	Files (6)
+
+Info 355  [22:52:39.89] -----------------------------------------------
+Info 356  [22:52:39.175] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 357  [22:52:39.176] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 358  [22:52:39.176] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 359  [22:52:39.183] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 50 structureChanged: false Elapsed: 7ms
+Info 360  [22:52:39.183] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 361  [22:52:39.183] 	Files (6)
+
+Info 362  [22:52:39.183] -----------------------------------------------
+Info 363  [22:52:39.242] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 364  [22:52:39.242] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 365  [22:52:39.242] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 366  [22:52:39.248] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 51 structureChanged: false Elapsed: 6ms
+Info 367  [22:52:39.248] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 368  [22:52:39.248] 	Files (6)
+
+Info 369  [22:52:39.248] -----------------------------------------------
+Info 370  [22:52:39.453] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 371  [22:52:39.453] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 372  [22:52:39.453] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 373  [22:52:39.461] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 52 structureChanged: false Elapsed: 8ms
+Info 374  [22:52:39.461] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 375  [22:52:39.461] 	Files (6)
+
+Info 376  [22:52:39.461] -----------------------------------------------
+Info 377  [22:52:57.866] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 378  [22:52:57.866] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 379  [22:52:57.866] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 380  [22:52:57.873] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 53 structureChanged: false Elapsed: 7ms
+Info 381  [22:52:57.873] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 382  [22:52:57.873] 	Files (6)
+
+Info 383  [22:52:57.873] -----------------------------------------------
+Info 384  [22:53:0.5] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 385  [22:53:0.5] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 386  [22:53:0.5] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 387  [22:53:0.12] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 54 structureChanged: false Elapsed: 7ms
+Info 388  [22:53:0.12] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 389  [22:53:0.12] 	Files (6)
+
+Info 390  [22:53:0.12] -----------------------------------------------
+Info 391  [22:53:2.186] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 392  [22:53:2.186] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 393  [22:53:2.186] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 394  [22:53:2.193] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 55 structureChanged: false Elapsed: 7ms
+Info 395  [22:53:2.193] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 396  [22:53:2.193] 	Files (6)
+
+Info 397  [22:53:2.193] -----------------------------------------------
+Info 398  [22:53:2.788] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 399  [22:53:2.788] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 400  [22:53:2.788] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 401  [22:53:2.797] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 56 structureChanged: false Elapsed: 9ms
+Info 402  [22:53:2.797] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 403  [22:53:2.797] 	Files (6)
+
+Info 404  [22:53:2.797] -----------------------------------------------
+Info 405  [22:53:2.929] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 406  [22:53:2.929] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 407  [22:53:2.929] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 408  [22:53:2.940] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 57 structureChanged: false Elapsed: 11ms
+Info 409  [22:53:2.940] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 410  [22:53:2.940] 	Files (6)
+
+Info 411  [22:53:2.941] -----------------------------------------------
+Info 412  [22:53:3.40] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 413  [22:53:3.40] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 414  [22:53:3.40] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 415  [22:53:3.50] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 58 structureChanged: false Elapsed: 10ms
+Info 416  [22:53:3.50] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 417  [22:53:3.50] 	Files (6)
+
+Info 418  [22:53:3.50] -----------------------------------------------
+Info 419  [22:53:3.928] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 420  [22:53:3.928] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 421  [22:53:3.928] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 422  [22:53:3.937] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 59 structureChanged: false Elapsed: 9ms
+Info 423  [22:53:3.938] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 424  [22:53:3.938] 	Files (6)
+
+Info 425  [22:53:3.938] -----------------------------------------------
+Info 426  [22:53:4.869] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 427  [22:53:4.869] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 428  [22:53:4.870] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 429  [22:53:4.877] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 60 structureChanged: false Elapsed: 7ms
+Info 430  [22:53:4.877] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 431  [22:53:4.877] 	Files (6)
+
+Info 432  [22:53:4.877] -----------------------------------------------
+Info 433  [22:53:5.12] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 434  [22:53:5.12] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 435  [22:53:5.12] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 436  [22:53:5.19] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 61 structureChanged: false Elapsed: 7ms
+Info 437  [22:53:5.19] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 438  [22:53:5.19] 	Files (6)
+
+Info 439  [22:53:5.19] -----------------------------------------------
+Info 440  [22:53:5.639] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 441  [22:53:5.640] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 442  [22:53:5.640] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 443  [22:53:5.644] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 62 structureChanged: false Elapsed: 4ms
+Info 444  [22:53:5.644] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 445  [22:53:5.644] 	Files (6)
+
+Info 446  [22:53:5.644] -----------------------------------------------
+Info 447  [22:53:5.645] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 448  [22:53:5.645] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 449  [22:53:5.645] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 450  [22:53:5.652] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 63 structureChanged: false Elapsed: 7ms
+Info 451  [22:53:5.652] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 452  [22:53:5.652] 	Files (6)
+
+Info 453  [22:53:5.652] -----------------------------------------------
+Info 454  [22:53:8.471] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 455  [22:53:8.471] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 456  [22:53:8.471] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 457  [22:53:8.481] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 64 structureChanged: false Elapsed: 10ms
+Info 458  [22:53:8.481] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 459  [22:53:8.481] 	Files (6)
+
+Info 460  [22:53:8.481] -----------------------------------------------
+Info 461  [22:53:10.339] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 462  [22:53:10.339] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 463  [22:53:10.339] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 464  [22:53:10.346] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 65 structureChanged: false Elapsed: 7ms
+Info 465  [22:53:10.346] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 466  [22:53:10.346] 	Files (6)
+
+Info 467  [22:53:10.346] -----------------------------------------------
+Info 468  [22:53:12.993] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 469  [22:53:12.993] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 470  [22:53:12.993] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 471  [22:53:13.2] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 66 structureChanged: false Elapsed: 9ms
+Info 472  [22:53:13.2] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 473  [22:53:13.2] 	Files (6)
+
+Info 474  [22:53:13.2] -----------------------------------------------
+Info 475  [22:53:13.683] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 476  [22:53:13.683] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 477  [22:53:13.683] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 478  [22:53:13.698] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 67 structureChanged: false Elapsed: 15ms
+Info 479  [22:53:13.698] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 480  [22:53:13.698] 	Files (6)
+
+Info 481  [22:53:13.698] -----------------------------------------------
+Info 482  [22:53:16.818] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 483  [22:53:16.818] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 484  [22:53:16.818] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 485  [22:53:16.828] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 68 structureChanged: false Elapsed: 10ms
+Info 486  [22:53:16.828] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 487  [22:53:16.828] 	Files (6)
+
+Info 488  [22:53:16.828] -----------------------------------------------
+Info 489  [22:53:18.133] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 490  [22:53:18.133] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 491  [22:53:18.133] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 492  [22:53:18.140] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 69 structureChanged: false Elapsed: 7ms
+Info 493  [22:53:18.140] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 494  [22:53:18.140] 	Files (6)
+
+Info 495  [22:53:18.140] -----------------------------------------------
+Info 496  [22:53:19.321] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 497  [22:53:19.321] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 498  [22:53:19.321] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 499  [22:53:19.328] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 70 structureChanged: false Elapsed: 6ms
+Info 500  [22:53:19.328] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 501  [22:53:19.328] 	Files (6)
+
+Info 502  [22:53:19.328] -----------------------------------------------
+Info 503  [22:53:21.770] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 504  [22:53:21.770] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 505  [22:53:21.770] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 506  [22:53:21.777] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 71 structureChanged: false Elapsed: 6ms
+Info 507  [22:53:21.777] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 508  [22:53:21.777] 	Files (6)
+
+Info 509  [22:53:21.777] -----------------------------------------------
+Info 510  [22:53:23.121] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 511  [22:53:23.121] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 512  [22:53:23.121] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 513  [22:53:23.133] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 72 structureChanged: false Elapsed: 12ms
+Info 514  [22:53:23.133] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 515  [22:53:23.133] 	Files (6)
+
+Info 516  [22:53:23.133] -----------------------------------------------
+Info 517  [22:53:42.863] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 518  [22:53:42.863] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 519  [22:53:42.863] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 520  [22:53:42.869] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 73 structureChanged: false Elapsed: 6ms
+Info 521  [22:53:42.869] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 522  [22:53:42.869] 	Files (6)
+
+Info 523  [22:53:42.869] -----------------------------------------------
+Info 524  [22:53:43.586] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 525  [22:53:43.586] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 526  [22:53:43.586] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 527  [22:53:43.593] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 74 structureChanged: false Elapsed: 7ms
+Info 528  [22:53:43.593] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 529  [22:53:43.593] 	Files (6)
+
+Info 530  [22:53:43.593] -----------------------------------------------
+Info 531  [22:53:43.781] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 532  [22:53:43.782] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 533  [22:53:43.782] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 534  [22:53:43.790] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 75 structureChanged: false Elapsed: 8ms
+Info 535  [22:53:43.790] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 536  [22:53:43.790] 	Files (6)
+
+Info 537  [22:53:43.790] -----------------------------------------------
+Info 538  [22:53:44.639] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 539  [22:53:44.639] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 540  [22:53:44.639] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 541  [22:53:44.646] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 76 structureChanged: false Elapsed: 6ms
+Info 542  [22:53:44.646] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 543  [22:53:44.646] 	Files (6)
+
+Info 544  [22:53:44.647] -----------------------------------------------
+Info 545  [22:53:47.575] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 546  [22:53:47.575] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 547  [22:53:47.575] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 548  [22:53:47.582] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 77 structureChanged: false Elapsed: 7ms
+Info 549  [22:53:47.582] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 550  [22:53:47.582] 	Files (6)
+
+Info 551  [22:53:47.582] -----------------------------------------------
+Info 552  [22:53:47.839] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 553  [22:53:47.840] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 554  [22:53:47.840] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 555  [22:53:47.847] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 78 structureChanged: false Elapsed: 7ms
+Info 556  [22:53:47.847] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 557  [22:53:47.847] 	Files (6)
+
+Info 558  [22:53:47.847] -----------------------------------------------
+Info 559  [22:53:47.991] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 560  [22:53:47.991] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 561  [22:53:47.991] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 562  [22:53:47.998] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 79 structureChanged: false Elapsed: 7ms
+Info 563  [22:53:47.998] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 564  [22:53:47.998] 	Files (6)
+
+Info 565  [22:53:47.998] -----------------------------------------------
+Info 566  [22:53:48.94] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 567  [22:53:48.95] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 568  [22:53:48.95] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 569  [22:53:48.100] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 80 structureChanged: false Elapsed: 5ms
+Info 570  [22:53:48.101] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 571  [22:53:48.101] 	Files (6)
+
+Info 572  [22:53:48.101] -----------------------------------------------
+Info 573  [22:53:48.951] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 574  [22:53:48.951] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 575  [22:53:48.951] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 576  [22:53:48.959] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 81 structureChanged: false Elapsed: 8ms
+Info 577  [22:53:48.959] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 578  [22:53:48.959] 	Files (6)
+
+Info 579  [22:53:48.959] -----------------------------------------------
+Info 580  [22:53:49.857] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 581  [22:53:49.857] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 582  [22:53:49.857] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 583  [22:53:49.865] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 82 structureChanged: false Elapsed: 8ms
+Info 584  [22:53:49.865] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 585  [22:53:49.865] 	Files (6)
+
+Info 586  [22:53:49.865] -----------------------------------------------
+Info 587  [22:53:50.31] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 588  [22:53:50.31] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 589  [22:53:50.31] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 590  [22:53:50.37] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 83 structureChanged: false Elapsed: 6ms
+Info 591  [22:53:50.38] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 592  [22:53:50.38] 	Files (6)
+
+Info 593  [22:53:50.38] -----------------------------------------------
+Info 594  [22:53:50.151] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 595  [22:53:50.151] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 596  [22:53:50.151] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 597  [22:53:50.160] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 84 structureChanged: false Elapsed: 8ms
+Info 598  [22:53:50.160] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 599  [22:53:50.160] 	Files (6)
+
+Info 600  [22:53:50.160] -----------------------------------------------
+Info 601  [22:53:50.335] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 602  [22:53:50.335] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 603  [22:53:50.335] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 604  [22:53:50.340] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 85 structureChanged: false Elapsed: 5ms
+Info 605  [22:53:50.340] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 606  [22:53:50.340] 	Files (6)
+
+Info 607  [22:53:50.340] -----------------------------------------------
+Info 608  [22:53:51.103] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 609  [22:53:51.103] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 610  [22:53:51.103] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 611  [22:53:51.108] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 86 structureChanged: false Elapsed: 4ms
+Info 612  [22:53:51.109] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 613  [22:53:51.109] 	Files (6)
+
+Info 614  [22:53:51.109] -----------------------------------------------
+Info 615  [22:53:51.320] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 616  [22:53:51.320] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 617  [22:53:51.320] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 618  [22:53:51.327] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 87 structureChanged: false Elapsed: 7ms
+Info 619  [22:53:51.327] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 620  [22:53:51.327] 	Files (6)
+
+Info 621  [22:53:51.327] -----------------------------------------------
+Info 622  [22:53:51.495] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 623  [22:53:51.495] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 624  [22:53:51.495] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 625  [22:53:51.501] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 88 structureChanged: false Elapsed: 6ms
+Info 626  [22:53:51.501] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 627  [22:53:51.501] 	Files (6)
+
+Info 628  [22:53:51.501] -----------------------------------------------
+Info 629  [22:53:51.673] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 630  [22:53:51.674] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 631  [22:53:51.674] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 632  [22:53:51.680] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 89 structureChanged: false Elapsed: 6ms
+Info 633  [22:53:51.680] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 634  [22:53:51.680] 	Files (6)
+
+Info 635  [22:53:51.680] -----------------------------------------------
+Info 636  [22:53:52.192] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 637  [22:53:52.192] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 638  [22:53:52.192] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 639  [22:53:52.198] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 90 structureChanged: false Elapsed: 6ms
+Info 640  [22:53:52.198] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 641  [22:53:52.198] 	Files (6)
+
+Info 642  [22:53:52.198] -----------------------------------------------
+Info 643  [22:53:52.975] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 644  [22:53:52.975] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 645  [22:53:52.975] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 646  [22:53:52.981] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 91 structureChanged: false Elapsed: 6ms
+Info 647  [22:53:52.981] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 648  [22:53:52.981] 	Files (6)
+
+Info 649  [22:53:52.981] -----------------------------------------------
+Info 650  [22:53:52.983] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 651  [22:53:52.984] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 652  [22:53:52.984] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 653  [22:53:52.994] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 92 structureChanged: false Elapsed: 10ms
+Info 654  [22:53:52.994] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 655  [22:53:52.994] 	Files (6)
+
+Info 656  [22:53:52.994] -----------------------------------------------
+Info 657  [22:53:53.263] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 658  [22:53:53.263] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 659  [22:53:53.263] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 660  [22:53:53.269] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 93 structureChanged: false Elapsed: 6ms
+Info 661  [22:53:53.269] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 662  [22:53:53.269] 	Files (6)
+
+Info 663  [22:53:53.269] -----------------------------------------------
+Info 664  [22:53:53.695] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 665  [22:53:53.695] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 666  [22:53:53.695] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 667  [22:53:53.701] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 94 structureChanged: false Elapsed: 6ms
+Info 668  [22:53:53.701] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 669  [22:53:53.701] 	Files (6)
+
+Info 670  [22:53:53.701] -----------------------------------------------
+Info 671  [22:53:53.927] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 672  [22:53:53.927] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 673  [22:53:53.927] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 674  [22:53:53.931] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 95 structureChanged: false Elapsed: 4ms
+Info 675  [22:53:53.931] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 676  [22:53:53.931] 	Files (6)
+
+Info 677  [22:53:53.931] -----------------------------------------------
+Info 678  [22:53:54.223] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 679  [22:53:54.223] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 680  [22:53:54.223] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 681  [22:53:54.228] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 96 structureChanged: false Elapsed: 5ms
+Info 682  [22:53:54.228] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 683  [22:53:54.228] 	Files (6)
+
+Info 684  [22:53:54.228] -----------------------------------------------
+Info 685  [22:53:54.358] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 686  [22:53:54.358] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 687  [22:53:54.358] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 688  [22:53:54.368] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 97 structureChanged: false Elapsed: 10ms
+Info 689  [22:53:54.368] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 690  [22:53:54.368] 	Files (6)
+
+Info 691  [22:53:54.368] -----------------------------------------------
+Info 692  [22:53:54.528] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 693  [22:53:54.528] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 694  [22:53:54.528] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 695  [22:53:54.533] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 98 structureChanged: false Elapsed: 5ms
+Info 696  [22:53:54.533] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 697  [22:53:54.533] 	Files (6)
+
+Info 698  [22:53:54.533] -----------------------------------------------
+Info 699  [22:53:54.735] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 700  [22:53:54.735] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 701  [22:53:54.735] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 702  [22:53:54.743] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 99 structureChanged: false Elapsed: 8ms
+Info 703  [22:53:54.743] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 704  [22:53:54.743] 	Files (6)
+
+Info 705  [22:53:54.743] -----------------------------------------------
+Info 706  [22:53:55.551] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 707  [22:53:55.551] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 708  [22:53:55.551] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 709  [22:53:55.555] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 100 structureChanged: false Elapsed: 4ms
+Info 710  [22:53:55.555] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 711  [22:53:55.555] 	Files (6)
+
+Info 712  [22:53:55.555] -----------------------------------------------
+Info 713  [22:53:55.751] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 714  [22:53:55.751] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 715  [22:53:55.751] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 716  [22:53:55.755] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 101 structureChanged: false Elapsed: 4ms
+Info 717  [22:53:55.755] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 718  [22:53:55.756] 	Files (6)
+
+Info 719  [22:53:55.756] -----------------------------------------------
+Info 720  [22:53:55.887] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 721  [22:53:55.887] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 722  [22:53:55.887] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 723  [22:53:55.893] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 102 structureChanged: false Elapsed: 6ms
+Info 724  [22:53:55.893] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 725  [22:53:55.893] 	Files (6)
+
+Info 726  [22:53:55.893] -----------------------------------------------
+Info 727  [22:53:56.46] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 728  [22:53:56.46] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 729  [22:53:56.46] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 730  [22:53:56.52] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 103 structureChanged: false Elapsed: 6ms
+Info 731  [22:53:56.52] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 732  [22:53:56.52] 	Files (6)
+
+Info 733  [22:53:56.52] -----------------------------------------------
+Info 734  [22:53:56.247] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 735  [22:53:56.247] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 736  [22:53:56.247] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 737  [22:53:56.253] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 104 structureChanged: false Elapsed: 6ms
+Info 738  [22:53:56.253] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 739  [22:53:56.253] 	Files (6)
+
+Info 740  [22:53:56.253] -----------------------------------------------
+Info 741  [22:53:56.736] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp
+Info 742  [22:53:56.736] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/quiz/src/main/webapp/index.html :: No config files found.
+Info 743  [22:53:56.736] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 744  [22:53:56.740] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 105 structureChanged: false Elapsed: 4ms
+Info 745  [22:53:56.740] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 746  [22:53:56.740] 	Files (6)
+
+Info 747  [22:53:56.740] -----------------------------------------------

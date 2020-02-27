@@ -1,0 +1,107 @@
+Info 0    [21:41:44.886] Format host information updated
+Info 1    [21:41:44.887] reload projects.
+Info 2    [21:41:44.887] Structure before ensureProjectForOpenFiles:
+Info 3    [21:41:44.887] Structure after ensureProjectForOpenFiles:
+Info 4    [21:41:44.887] Host file extension mappings updated
+Info 5    [21:41:45.37] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/ServletProjeto/src/main/webapp
+Info 6    [21:41:45.39] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/ServletProjeto/src/main/webapp/Bean.html :: No config files found.
+Info 7    [21:41:45.41] Loading global plugin @angular/language-service
+Info 8    [21:41:45.41] Enabling plugin @angular/language-service from candidate paths: /Applications/Eclipse-4.13.app/Contents/Eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/typescript/lib/tsserverlibrary.js/../../..,/Applications/Eclipse-4.13.app/Contents/Eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/@angular/language-service
+Info 9    [21:41:45.41] Loading @angular/language-service from /Applications/Eclipse-4.13.app/Contents/Eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/typescript/lib/tsserverlibrary.js/../../.. (resolved to /Applications/Eclipse-4.13.app/Contents/Eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/node_modules)
+Info 10   [21:41:45.220] Plugin validation succeded
+Info 11   [21:41:45.229] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 12   [21:41:46.431] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 1202ms
+Info 13   [21:41:46.431] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 14   [21:41:46.431] 	Files (6)
+
+Info 15   [21:41:46.431] -----------------------------------------------
+Info 16   [21:59:21.165] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/ServletProjeto/src/main/webapp
+Info 17   [21:59:21.165] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/ServletProjeto/src/main/webapp/ShadowedText.html :: No config files found.
+Info 18   [21:59:21.166] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 19   [21:59:21.183] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: true Elapsed: 17ms
+Info 20   [21:59:21.183] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 21   [21:59:21.183] 	Files (7)
+
+Info 22   [21:59:21.183] -----------------------------------------------
+Info 23   [21:59:21.441] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/ServletProjeto/src/main/webapp
+Info 24   [21:59:21.442] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/ServletProjeto/src/main/webapp/TelaDados.html :: No config files found.
+Info 25   [21:59:21.443] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 26   [21:59:21.460] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 3 structureChanged: true Elapsed: 17ms
+Info 27   [21:59:21.460] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 28   [21:59:21.460] 	Files (7)
+
+Info 29   [21:59:21.460] -----------------------------------------------
+Info 30   [21:59:21.576] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/ServletProjeto/src/main/webapp
+Info 31   [21:59:21.577] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/ServletProjeto/src/main/webapp/ThreeParamsForm.html :: No config files found.
+Info 32   [21:59:21.578] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 33   [21:59:21.592] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 4 structureChanged: true Elapsed: 14ms
+Info 34   [21:59:21.592] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 35   [21:59:21.592] 	Files (7)
+
+Info 36   [21:59:21.592] -----------------------------------------------
+Info 37   [21:59:21.999] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/ServletProjeto/src/main/webapp/resources
+Info 38   [21:59:21.999] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/ServletProjeto/src/main/webapp/resources/header.html :: No config files found.
+Info 39   [21:59:22.0] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 40   [21:59:22.12] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 5 structureChanged: true Elapsed: 11ms
+Info 41   [21:59:22.12] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 42   [21:59:22.12] 	Files (7)
+
+Info 43   [21:59:22.12] -----------------------------------------------
+Info 44   [22:3:15.607] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/ServletProjeto/src/main/webapp
+Info 45   [22:3:15.607] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/ServletProjeto/src/main/webapp/ThreeParamsForm.html :: No config files found.
+Info 46   [22:3:15.608] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 47   [22:3:15.622] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 6 structureChanged: true Elapsed: 14ms
+Info 48   [22:3:15.622] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 49   [22:3:15.622] 	Files (7)
+
+Info 50   [22:3:15.622] -----------------------------------------------
+Info 51   [22:11:21.185] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/ServletProjeto/src/main/webapp/resources
+Info 52   [22:11:21.185] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/ServletProjeto/src/main/webapp/resources/header.html :: No config files found.
+Info 53   [22:11:21.188] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 54   [22:11:21.201] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 7 structureChanged: true Elapsed: 13ms
+Info 55   [22:11:21.201] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 56   [22:11:21.201] 	Files (8)
+
+Info 57   [22:11:21.201] -----------------------------------------------
+Info 58   [22:12:53.101] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/ServletProjeto/src/main/webapp/resources
+Info 59   [22:12:53.102] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/ServletProjeto/src/main/webapp/resources/footer.html :: No config files found.
+Info 60   [22:12:53.103] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 61   [22:12:53.112] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 8 structureChanged: true Elapsed: 9ms
+Info 62   [22:12:53.112] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 63   [22:12:53.112] 	Files (9)
+
+Info 64   [22:12:53.112] -----------------------------------------------
+Info 65   [22:31:23.342] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/ServletProjeto/src/main/webapp
+Info 66   [22:31:23.343] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/ServletProjeto/src/main/webapp/Bean.html :: No config files found.
+Info 67   [22:31:23.343] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 68   [22:31:23.352] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 9 structureChanged: true Elapsed: 9ms
+Info 69   [22:31:23.352] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 70   [22:31:23.352] 	Files (6)
+
+Info 71   [22:31:23.352] -----------------------------------------------
+Info 72   [22:31:25.510] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/ServletProjeto/src/main/webapp
+Info 73   [22:31:25.510] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/ServletProjeto/src/main/webapp/ShadowedText.html :: No config files found.
+Info 74   [22:31:25.512] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 75   [22:31:25.545] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 10 structureChanged: true Elapsed: 33ms
+Info 76   [22:31:25.545] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 77   [22:31:25.545] 	Files (7)
+
+Info 78   [22:31:25.545] -----------------------------------------------
+Info 79   [22:31:31.835] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/ServletProjeto/src/main/webapp
+Info 80   [22:31:31.836] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/ServletProjeto/src/main/webapp/ShadowedText.html :: No config files found.
+Info 81   [22:33:11.882] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/ServletProjeto/src/main/webapp
+Info 82   [22:33:11.882] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/ServletProjeto/src/main/webapp/Cookie.html :: No config files found.
+Info 83   [22:33:11.885] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 84   [22:33:11.901] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 11 structureChanged: true Elapsed: 16ms
+Info 85   [22:33:11.901] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 86   [22:33:11.901] 	Files (8)
+
+Info 87   [22:33:11.901] -----------------------------------------------
+Info 88   [22:33:34.532] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/ServletProjeto/src/main/webapp
+Info 89   [22:33:34.532] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/ServletProjeto/src/main/webapp/Cookie.html :: No config files found.
+Info 90   [22:33:34.532] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 91   [22:33:34.534] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 12 structureChanged: false Elapsed: 2ms
+Info 92   [22:33:34.534] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 93   [22:33:34.534] 	Files (8)
+
+Info 94   [22:33:34.534] -----------------------------------------------

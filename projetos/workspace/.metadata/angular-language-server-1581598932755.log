@@ -1,0 +1,17 @@
+Info 0    [11:2:13.352] Format host information updated
+Info 1    [11:2:13.353] reload projects.
+Info 2    [11:2:13.353] Structure before ensureProjectForOpenFiles:
+Info 3    [11:2:13.353] Structure after ensureProjectForOpenFiles:
+Info 4    [11:2:13.353] Host file extension mappings updated
+Info 5    [11:2:13.549] Search path: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/ServletProjeto/build/inplaceWebapp
+Info 6    [11:2:13.552] For info: /System/Volumes/Data/Area/Cursos/Contas/javaweb/projetos/workspace/ServletProjeto/build/inplaceWebapp/Bean.html :: No config files found.
+Info 7    [11:2:13.554] Loading global plugin @angular/language-service
+Info 8    [11:2:13.554] Enabling plugin @angular/language-service from candidate paths: /Applications/Eclipse-4.13.app/Contents/Eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/typescript/lib/tsserverlibrary.js/../../..,/Applications/Eclipse-4.13.app/Contents/Eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/@angular/language-service
+Info 9    [11:2:13.554] Loading @angular/language-service from /Applications/Eclipse-4.13.app/Contents/Eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/typescript/lib/tsserverlibrary.js/../../.. (resolved to /Applications/Eclipse-4.13.app/Contents/Eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/node_modules)
+Info 10   [11:2:13.805] Plugin validation succeded
+Info 11   [11:2:13.808] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 12   [11:2:15.626] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 1818ms
+Info 13   [11:2:15.627] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 14   [11:2:15.627] 	Files (6)
+
+Info 15   [11:2:15.627] -----------------------------------------------

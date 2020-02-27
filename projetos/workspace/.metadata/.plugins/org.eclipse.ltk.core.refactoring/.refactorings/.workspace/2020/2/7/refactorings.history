@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;cadastro_boot&apos; to &apos;cadastro_boot_prof&apos;&#x0A;- Original element: &apos;cadastro_boot&apos;&#x0A;- Renamed element: &apos;cadastro_boot&apos;&#x0A;- Update references to refactored element" description="Rename Java project &apos;cadastro_boot&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=cadastro_boot" name="cadastro_boot_prof" references="true" stamp="1581468720971" version="1.0"/>
+</session>

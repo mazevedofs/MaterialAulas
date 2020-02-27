@@ -1,0 +1,32 @@
+UsuarioController
+-----------------
+
+ - Criar atributo:
+	private BCryptPasswordEncoder encoder = new BCryptPasswordEncoder();
+
+ - modificar o método salvaUsuario
+	} else {
+  ->>	  usuario.setSenha(encoder.encode(usuario.getSenha()));
+	  dao.salvar(usuario);
+	  return ResponseEntity.ok().build();
+
+ClienteController
+-----------------
+
+ - Ajustar argumento no PathVariable do método editaCliente
+
+  De:
+	public ResponseEntity<Object> editaCliente(@PathVariable("clienteID") int id) {
+  Pata:
+	public ResponseEntity<Object> editaCliente(@PathVariable("clienteId") int id) {
+
+ServicoController
+-----------------
+
+ - Ajustar o RequestMapping no método removeServico
+
+  De:
+	@RequestMapping("/removeSErvico/{idServico}")
+  Para:
+	@RequestMapping("/removeServico/{idServico}")
+
